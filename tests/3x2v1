@@ -1,0 +1,9 @@
+c Specification of the sample Sudoku instance of size (3 x 2)
+3
+2
+4 0 1 0 0 2
+0 6 0 1 0 0
+0 2 0 0 6 1
+1 4 0 0 3 0
+0 0 4 0 0 0
+6 0 0 3 0 4
